@@ -1,4 +1,4 @@
-# YAZILIMCI MAAŞLARI | 2020
+# YAZILIMCI MAAŞLARI | 2021
 
 Bu anket [Önceki Yazılımcı](https://twitter.com/oncekiyazilimci) tarafından düzenlenmiştir.
 
